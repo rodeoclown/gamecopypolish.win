@@ -1,0 +1,1 @@
+# gamecopypolish.win
