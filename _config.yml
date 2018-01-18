@@ -1,5 +1,5 @@
 # general configuration
-url: http://www.gamecopypolish.com
+url: http://www.gamecopypolish.win
 baseurl: ''
 title: "Game Copy Polish"
 
@@ -8,7 +8,7 @@ compass:
   # an avatar or logo (optional)
   logo: "/assets/images/ian-face.png"
   # author will appear under the avatar (optional)
-  author: "Ian Tyrrell"
+  author: "Game Copy Polish"
   # tagline will appear under the title (optional)
   tagline: "Copyediting, proofreading, and general copy polish (for your games)"
   # if include_analytics is true, the content of the analytics.html include will

@@ -72,7 +72,7 @@ since it must be aligned with the content */
 
 /*** author ***/
 .author-container h1 {
-	font-size: 2.8em;
+	font-size: 2.4em;
 	margin-top: 0;
 	margin-bottom: 0;
 	text-align: center;
@@ -80,7 +80,7 @@ since it must be aligned with the content */
 
 /*** tagline ***/
 .tagline-container p {
-	font-size: 1.3em;
+	font-size: 1.2em;
 	text-align: center;
 	margin-bottom: 2em;
 }
@@ -129,6 +129,15 @@ footer {
         .publisher {
             font-style: italic;
         }
+
+        img {
+            width: 200px;
+            height: 200px;
+            border-radius: 50%;
+        	-moz-border-radius: 50%;
+        	border: 2px solid $background-color;
+        	box-shadow: 0 0 0 3px $text-color;
+        }
     }
 }
 
@@ -144,10 +153,10 @@ footer {
 
 /* All other devices (768px and up) */
 @media (min-width: 768px) {
-	/* past 768px the layout is changed and the wrapper has a fixed width of 680px
-	to accomodate both the header column and the content column */
+	/* past 768px the layout is changed and the wrapper has a fixed width of 720px
+	to accommodate both the header column and the content column */
 	.wrapper {
-		width: 680px;
+		width: 720px;
 	}
 
 	/* the header column stays left and has a dynamic width with all contents
@@ -168,5 +177,9 @@ footer {
 		width: 46%;
 		margin-left: 54%;
 		padding: 0;
+
+		h2:first-of-type {
+		    padding-top: 100px;
+		}
 	}
 }
