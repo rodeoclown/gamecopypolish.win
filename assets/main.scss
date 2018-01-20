@@ -5,6 +5,10 @@ $text-color: #46433A;
 $anchor-text-color: #CE534D;
 $background-color: #F1EED9;
 
+html {
+  overflow-y: scroll;
+}
+
 body {
 	font-family: 'Vollkorn', serif;
 	color: $text-color;
@@ -163,8 +167,9 @@ footer {
 	aligned right */
 	header {
 		float: left;
-		width: 46%;
+		width: 330px;
 		text-align: right;
+		position: fixed;
 	}
 
 	.author-container h1,
