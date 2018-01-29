@@ -114,6 +114,34 @@ footer {
 	padding: 0 5px;
 }
 
+.menu {
+
+    $menu-height: 39px;
+
+    display: none;
+
+    position: fixed;
+    top: 0;
+    height: $menu-height;
+    background-color: $background-color;
+
+    a {
+        float: right;
+        padding-right: 20px;
+        padding-top: 10px;
+
+        font-size: 1.2em;
+        font-weight: bold;
+    }
+
+    hr {
+        position: absolute;
+        top: $menu-height - 9px;
+        margin-bottom: 0;
+        width: 100%;
+    }
+}
+
 .portfolio {
     text-align: center;
 
@@ -149,9 +177,14 @@ footer {
 /* X-Small devices (phones, 480px and up) */
 @media (min-width: 480px) {
 	/* wrapper stays 480px wide past 480px wide and is kept centered */
+	$width: 480px;
 	.wrapper {
-		width: 480px;
+		width: $width;
 		margin: 10% auto 0 auto;
+	}
+
+	.menu {
+	    width: $width;
 	}
 }
 
@@ -159,9 +192,14 @@ footer {
 @media (min-width: 768px) {
 	/* past 768px the layout is changed and the wrapper has a fixed width of 720px
 	to accommodate both the header column and the content column */
+	$width: 720px;
 	.wrapper {
-		width: 720px;
+		width: $width;
 	}
+
+	.menu {
+        width: $width;
+    }
 
 	/* the header column stays left and has a dynamic width with all contents
 	aligned right */
