@@ -8,9 +8,9 @@ permalink: portfolio.html
     <main class="portfolio">
         <h1>Portfolio</h1>
         <p>These are the games I've had the privilege of working on (so far). If you'd like help polishing your game rules, <a href="mailto://game.copy.polish@gmail.com">email me</a>.</p>
+        <hr/>
         <ul>
-            <hr/>
-            {% assign portfolio = ((site.data.portfolio | sort: 'date')| reverse) %}
+            {% assign portfolio = site.data.portfolio | sort: 'date' | reverse %}
             {% for item in portfolio %}
                 <li style="text-align:center">
                     <div>
@@ -20,7 +20,26 @@ permalink: portfolio.html
                     </div>
                     <a href="{{item.bgg_url}}" class="title">{{item.title}}</a> <br/>
                     <a href="{{item.publisher_url}}" class="publisher">{{item.publisher}}</a>
+                    <hr/>
                 </li>
+            {% endfor %}
+        </ul>
+
+        <h1>Books</h1>
+        <p>I've also been able to help in proofreading published books, which you can check out below.</p>
+        <ul>
+            {% assign bp = site.data.books-portfolio | sort: 'date' | reverse %}
+            {% for book in bp %}
+                <li style="text-align:center">
+                    <div>
+                        <a href="/assets/images/portfolio/{{book.img}}">
+                            <img src="/assets/images/portfolio/thumbs/{{book.img}}" width="200px" title="{{book.title}}"/>
+                        </a>
+                    </div>
+                    <a href="{{book.amazon_url}}" class="title">{{book.title}}</a> <br/>
+                    <a href="{{book.amazon_url}}" class="publisher">{{book.author}}</a>
+                </li>
+
                 {% if forloop.last == false %}
                     <hr/>
                 {% endif %}
