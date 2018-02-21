@@ -114,6 +114,18 @@ footer {
 	padding: 0 5px;
 }
 
+.testimonial {
+    font-style: italic;
+    font-size: 1 em;
+    display: inline-block;
+
+    .name {
+        display: block;
+        text-align: right;
+        padding-top: 10px;
+    }
+}
+
 .menu {
 
     $menu-height: 39px;
