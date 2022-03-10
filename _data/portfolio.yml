@@ -1,7 +1,7 @@
 - title: "Tuscany: Expand the World of Viticulture"
   date: 2014-04-16
   publisher: Stonemaier Games
-  publisher_url: http://www.stonemaiergames.com/
+  publisher_url: https://www.stonemaiergames.com/
   bgg_url: https://boardgamegeek.com/boardgameexpansion/147101/tuscany-expand-world-viticulture
   img: tuscany.jpg
 
@@ -15,63 +15,63 @@
 - title: "Viticulture: Moor Visitors Expansion"
   date: 2015-12-15
   publisher: Stonemaier Games
-  publisher_url: http://www.stonemaiergames.com/
+  publisher_url: https://www.stonemaiergames.com/
   bgg_url: https://boardgamegeek.com/boardgameexpansion/193823/viticulture-moor-visitors-expansion
   img: moor_visitors.jpg
 
 - title: Viticulture Essential Edition
   date: 2015-07-04
   publisher: Stonemaier Games
-  publisher_url: http://www.stonemaiergames.com/
+  publisher_url: https://www.stonemaiergames.com/
   bgg_url: https://boardgamegeek.com/boardgame/183394/viticulture-essential-edition
   img: viticulture_essential_edition.jpg
 
 - title: Scythe
   date: 2015-10-18
   publisher: Stonemaier Games
-  publisher_url: http://www.stonemaiergames.com/
+  publisher_url: https://www.stonemaiergames.com/
   bgg_url: https://boardgamegeek.com/boardgame/169786/scythe
   img: scythe.jpg
 
 - title: "Scythe: Invaders From Afar"
   date: 2016-04-20
   publisher: Stonemaier Games
-  publisher_url: http://www.stonemaiergames.com/
+  publisher_url: https://www.stonemaiergames.com/
   bgg_url: https://boardgamegeek.com/boardgameexpansion/199727/scythe-invaders-afar
   img: invaders_from_afar.jpg
 
 - title: "Scythe: The Rise of Fenris"
   date: 2018-01-04
   publisher: Stonemaier Games
-  publisher_url: http://www.stonemaiergames.com/
+  publisher_url: https://www.stonemaiergames.com/
   bgg_url: https://boardgamegeek.com/boardgameexpansion/242277/scythe-rise-fenris
   img: rise_of_fenris.jpg
 
 - title: "Between Two Cities: Capitals"
   date: 2017-01-14
   publisher: Stonemaier Games
-  publisher_url: http://www.stonemaiergames.com/
+  publisher_url: https://www.stonemaiergames.com/
   bgg_url: https://boardgamegeek.com/boardgameexpansion/225370/between-two-cities-capitals
   img: between_two_cities_capitals.jpg
 
 - title: Charterstone
   date: 2017-04-18
   publisher: Stonemaier Games
-  publisher_url: http://www.stonemaiergames.com/
+  publisher_url: https://www.stonemaiergames.com/
   bgg_url: https://boardgamegeek.com/boardgame/197376/charterstone
   img: charterstone.jpg
 
 - title: Pendulum
   date: 2019-06-04
   publisher: Stonemaier Games
-  publisher_url: http://www.stonemaiergames.com/
+  publisher_url: https://www.stonemaiergames.com/
   bgg_url: https://boardgamegeek.com/boardgame/312804/pendulum
   img: pendulum.jpg
 
 - title: "Red Rising"
   date: 2021-04-01
   publisher: Stonemaier Games
-  publisher_url: http://www.stonemaiergames.com/
+  publisher_url: https://www.stonemaiergames.com/
   bgg_url: https://www.boardgamegeek.com/boardgame/329465/red-rising
   img: red_rising.jpg
 
@@ -81,3 +81,38 @@
   publisher_url: https://themadlooter.com/
   bgg_url: https://www.drivethrurpg.com/product/384799?affiliate_id=887697
   img: fallsea_edge_of_the_world.jpg
+
+- title: "Libertalia: Winds of Galecrest"
+  date: 2022-03-10
+  publisher: Stonemaier Games
+  publisher_url: https://www.stonemaiergames.com/
+  bgg_url: https://boardgamegeek.com/boardgame/356033/libertalia-winds-galecrest
+  img: libertalia_winds_of_galecrest.jpg
+
+# - title: "The Package - One Shot Adventure"
+  # date: 2022-03-15
+  # publisher: The Mad Looter
+  # publisher_url: https://themadlooter.com/
+  # bgg_url: https://www.drivethrurpg.com/product/XXXXXXXXX?affiliate_id=887697
+  # img: the_package.jpg
+  
+# - title: "Wingspan: Asia"
+  # date: 2022-10-10 #???
+  # publisher: Stonemaier Games
+  # publisher_url: https://www.stonemaiergames.com/
+  # bgg_url: https://boardgamegeek.com/boardgame/????????????
+  # img: wingspan_asia.jpg
+
+# - title: "Between Two Cities: Essential Edition"
+  # date: 2022-03-10
+  # publisher: Stonemaier Games
+  # publisher_url: https://www.stonemaiergames.com/
+  # bgg_url: https://boardgamegeek.com/boardgame/????????
+  # img: between_two_cities_essential_edition.jpg
+  
+# - title: "Deliverance"
+  # date: 2022-12-01
+  # publisher: Lowen Games
+  # publisher_url: https://deliverancethegame.com/
+  # bgg_url: https://boardgamegeek.com/boardgame/273814/deliverance
+  # img: deliverance.jpg
