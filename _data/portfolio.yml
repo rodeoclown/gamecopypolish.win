@@ -89,30 +89,44 @@
   bgg_url: https://boardgamegeek.com/boardgame/356033/libertalia-winds-galecrest
   img: libertalia_winds_of_galecrest.jpg
 
-# - title: "The Package - One Shot Adventure"
-  # date: 2022-03-15
-  # publisher: The Mad Looter
-  # publisher_url: https://themadlooter.com/
-  # bgg_url: https://www.drivethrurpg.com/product/XXXXXXXXX?affiliate_id=887697
-  # img: the_package.jpg
-  
-# - title: "Wingspan: Asia"
-  # date: 2022-10-10 #???
-  # publisher: Stonemaier Games
-  # publisher_url: https://www.stonemaiergames.com/
-  # bgg_url: https://boardgamegeek.com/boardgame/????????????
-  # img: wingspan_asia.jpg
+- title: "The Package - One Shot Adventure"
+  date: 2022-03-15
+  publisher: The Mad Looter
+  publisher_url: https://themadlooter.com/
+  bgg_url: https://www.drivethrurpg.com/product/393085/The-Package-for-Pathfinder-1?affiliate_id=887697
+  img: the_package.jpg
 
-# - title: "Between Two Cities: Essential Edition"
-  # date: 2022-03-10
-  # publisher: Stonemaier Games
-  # publisher_url: https://www.stonemaiergames.com/
-  # bgg_url: https://boardgamegeek.com/boardgame/????????
-  # img: between_two_cities_essential_edition.jpg
+- title: "The Hob's Nest - Short Adventure"
+  date: 2022-03-15
+  publisher: The Mad Looter
+  publisher_url: https://themadlooter.com/
+  bgg_url: https://www.drivethrurpg.com/product/408648/The-Hobs-Nest-for-Pathfinder-1?affiliate_id=887697
+  img: hobs_nest.jpg
   
-# - title: "Deliverance"
-  # date: 2022-12-01
-  # publisher: Lowen Games
-  # publisher_url: https://deliverancethegame.com/
-  # bgg_url: https://boardgamegeek.com/boardgame/273814/deliverance
-  # img: deliverance.jpg
+- title: "Wingspan: Asia"
+  date: 2022-11-01
+  publisher: Stonemaier Games
+  publisher_url: https://www.stonemaiergames.com/
+  bgg_url: https://boardgamegeek.com/boardgame/366161/wingspan-asia
+  img: wingspan_asia.jpg
+
+- title: "Between Two Cities: Essential Edition"
+  date: 2022-10-01
+  publisher: Stonemaier Games
+  publisher_url: https://www.stonemaiergames.com/
+  bgg_url: https://boardgamegeek.com/boardgame/369635/between-two-cities-essential-edition
+  img: between_two_cities_essential_edition.jpg
+  
+- title: "Deliverance"
+  date: 2022-12-01
+  publisher: Lowen Games
+  publisher_url: https://deliverancethegame.com/
+  bgg_url: https://boardgamegeek.com/boardgame/273814/deliverance
+  img: deliverance.jpg
+
+# - title: "Tapestry: Fantasies and Futures"
+#   date: 2023-??-??
+#   publisher: Stonemaier Games
+#   publisher_url: https://www.stonemaiergames.com/
+#   bgg_url: https://boardgamegeek.com/boardgame/????????
+#   img: ???.jpg
