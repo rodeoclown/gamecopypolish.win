@@ -124,9 +124,16 @@
   bgg_url: https://boardgamegeek.com/boardgame/273814/deliverance
   img: deliverance.jpg
 
-# - title: "Tapestry: Fantasies and Futures"
-#   date: 2023-??-??
-#   publisher: Stonemaier Games
-#   publisher_url: https://www.stonemaiergames.com/
-#   bgg_url: https://boardgamegeek.com/boardgame/????????
-#   img: ???.jpg
+- title: "Tapestry: Fantasies and Futures"
+  date: 2023-02-01
+  publisher: Stonemaier Games
+  publisher_url: https://www.stonemaiergames.com/
+  bgg_url: https://boardgamegeek.com/boardgame/379578/tapestry-fantasies-futures
+  img: tapestry_fantasies_and_futures.jpg
+
+- title: "Expeditions"
+  date: 2023-02-01
+  publisher: Stonemaier Games
+  publisher_url: https://www.stonemaiergames.com/
+  bgg_url: https://boardgamegeek.com/boardgame/379078/expeditions
+  img: expeditions.jpg
