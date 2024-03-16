@@ -145,19 +145,26 @@
   bgg_url: https://boardgamegeek.com/boardgame/400314/apiary
   img: apiary.jpg
 
-# - title: "Wyrmspan"
-#   date: 2024-06-01
-#   publisher: Stonemaier Games
-#   publisher_url: https://www.stonemaiergames.com/
-#   bgg_url: https://boardgamegeek.com/boardgame/...
-#   img: wyrmspan.jpg
+- title: "Wyrmspan"
+  date: 2024-06-01
+  publisher: Stonemaier Games
+  publisher_url: https://www.stonemaiergames.com/
+  bgg_url: https://boardgamegeek.com/boardgame/410201/wyrmspan
+  img: wyrmspan.jpg
 
-# - title: "Rolling Realms Promo: Libertalia: Winds of Galecrest"
+- title: "Earth Gambit: Light"
+  date: 2024-06-01
+  publisher: Honest Quarks Games
+  publisher_url: https://honestquarks.com/
+  bgg_url: https://boardgamegeek.com/boardgame/401593/earth-gambit-light
+  img: earth_gambit_light.jpg
+
+# - title: "Rolling Realms Redux"
 #   date: 2024-06-01
 #   publisher: Stonemaier Games
 #   publisher_url: https://www.stonemaiergames.com/
-#   bgg_url: https://boardgamegeek.com/boardgame/...
-#   img: rolling_realms_libertalia.jpg
+#   bgg_url: https://boardgamegeek.com/boardgame/393892/rolling-realms-redux
+#   img: rolling_realms_redux.jpg
 
 # - title: "Expeditions: Gears of Corruption"
 #   date: 2024-06-01
